@@ -1,25 +1,8 @@
 # Finland-mobility-data
 Data sets related Finland human mobility
 
+SummerCottages-2020-04-24.csv contains a 19-by-19 matrix where the (i,j)-entry equals the number of summer cottages in maakunta j owned by people in maakunta i.
+Source: Helsingin Sanomat online article 2020-04-24 containing data collected from Tilastokeskus by Joonas Laitinen HS. 
+https://www.hs.fi/kotimaa/art-2000006485982.html
+Rows and columns labeled according to ISO 3166-2 codes of Finland maakuntas https://en.wikipedia.org/wiki/ISO_3166-2:FI
 
-ISO 3166-2 codes codes of Finland regions (maakunta):
-
-Ahvenanmaa	FI-01
-Etelä-Karjala	FI-02
-Etelä-Pohjanmaa	FI-03
-Etelä-Savo	FI-04
-Kainuu	FI-05
-Kanta-Häme	FI-06
-Keski-Pohjanmaa	FI-07
-Keski-Suomi	FI-08
-Kymenlaakso	FI-09
-Lappi	FI-10
-Pirkanmaa	FI-11
-Pohjanmaa	FI-12
-Pohjois-Karjala	FI-13
-Pohjois-Pohjanmaa	FI-14
-Pohjois-Savo	FI-15
-Päijät-Häme	FI-16
-Satakunta	FI-17
-Uusimaa	FI-18
-Varsinais-Suomi	FI-19
